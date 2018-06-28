@@ -10,9 +10,9 @@ Integrating Firebase Cloud Messaging
 https://firebase.google.com
 and make an account to gain access to their console
 
-2)After you gain access to the console you can start by creating your first project.\
+2)After you gain access to the console you can start by creating your first project.
 
-3)Give the package name of your projec.and press Button.Add Firebase to your Android App.
+3)Give the package name of your project.and press Button.Add Firebase to your Android App.
 
 4)Now Need of SHA 1 key
 
