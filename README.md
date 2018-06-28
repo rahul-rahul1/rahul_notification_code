@@ -41,3 +41,17 @@ dependencies {
 // Add to the bottom of the file
  
 apply plugin: 'com.google.gms.google-services'
+
+# Retrieve the current registration token:
+ access the token's value by creating a new class which extends FirebaseInstanceIdService In that class, call getToken within onTokenRefresh.
+ Also add the service to your manifest file.
+ 
+ # Get Custom Notification
+ click on cloude Messaging,now open the Message tray,Fill up the data 
+ Now Press Done button.You will get the Notification in Mobile Device.
+ 
+ 
+ 
+ 
+ 
+ 
