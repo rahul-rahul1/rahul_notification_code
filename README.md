@@ -26,3 +26,8 @@ This step is very important as your project won’t build without this file.
 
 
 # Add Firebase SDK
+ The Google services plugin for Gradle loads the google-services.json file you just downloaded. Modify your build.gradle files to use the plugin.
+Project-level build.gradle (<project>/build.gradle):
+  // Add this line
+    classpath 'com.google.gms:google-services:4.0.0'
+
