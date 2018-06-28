@@ -14,12 +14,11 @@ and make an account to gain access to their console
 
 3)Give the package name of your project.and press Button.Add Firebase to your Android App.
 
-4)Now Need of SHA 1 key
+4)Now Need of SHA1 key
 
 by pressing Right side of Android Studio and Click Gradle and Select the app from Gradle projects tray,
-double click on androi-signingReport
+double click on android-signingReport
 you will see the SHA1 key on Console
-
 SHA1: 62:14:3F:05:F4:1E:E8:9F:43:3A:56:81:0B:32:14:DB:5A:BE:A2:5C
 
 4)Here the google-services.json file will be downloaded when you press add app button.
