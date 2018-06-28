@@ -30,4 +30,4 @@ This step is very important as your project won’t build without this file.
 Project-level build.gradle (<project>/build.gradle):
   // Add this line
     classpath 'com.google.gms:google-services:4.0.0'
-
+Sync the Project.
