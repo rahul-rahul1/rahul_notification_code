@@ -23,3 +23,6 @@ SHA1: 62:14:3F:05:F4:1E:E8:9F:43:3A:56:81:0B:32:14:DB:5A:BE:A2:5C
 
 4)Here the google-services.json file will be downloaded when you press add app button.
 This step is very important as your project won’t build without this file.
+
+
+# Add Firebase SDK
