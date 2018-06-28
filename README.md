@@ -1,13 +1,13 @@
 # Custom_notification_code
 Step by Step Notification Code
 
-# Android Push Notifications using Firebase Cloud Messaging FCM
+## Android Push Notifications using Firebase Cloud Messaging FCM
 Integrating Firebase Cloud Messaging
 
  Now we’ll create a simple app that receives firebase messages from both firebase console and from the PHP code.
 
 1)First thing you need to do is go to
-https://firebase.google.com
+[Firebase console](https://firebase.google.com)
 and make an account to gain access to their console
 
 2)After you gain access to the console you can start by creating your first project.
@@ -25,7 +25,7 @@ SHA1: 62:14:3F:05:F4:1E:E8:9F:43:3A:56:81:0B:32:14:DB:5A:BE:A2:5C
 This step is very important as your project won’t build without this file.
 
 
-# Add Firebase SDK
+## Add Firebase SDK
  The Google services plugin for Gradle loads the google-services.json file you just downloaded. Modify your build.gradle files to use the plugin.
 # Project-level build.gradle (<project>/build.gradle):
   // Add this line
