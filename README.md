@@ -31,3 +31,12 @@ Project-level build.gradle (<project>/build.gradle):
   // Add this line
     classpath 'com.google.gms:google-services:4.0.0'
 Sync the Project.
+
+# App-level build.gradle (<project>/<app-module>/build.gradle):
+dependencies {
+  // Add this line
+  compile 'com.google.firebase:firebase-core:16.0.0'
+}
+...
+// Add to the bottom of the file
+apply plugin: 'com.google.gms.google-services'
